@@ -54,3 +54,5 @@ This is a simple calculator web application built using HTML, CSS, and JavaScrip
 - HTML
 - CSS
 - JavaScript
+
+In order to view the live app [Click Here](https://jibran-calculator-app.netlify.app/)
